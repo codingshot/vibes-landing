@@ -305,9 +305,9 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-quote6">
-              <p className="home-quote7">A ceritificed CPA </p>
+              <p className="home-quote7">A ceritificed CPA  & Co-Founder at Benjamin Leo + Associates</p>
               <div className="home-author3">
-                <span className="home-name3">Ben Hout</span>
+                <span className="home-name3">Benjamin Hout</span>
                 <span className="home-location3">Chief Finance Officer</span>
               </div>
             </div>
