@@ -409,6 +409,14 @@ const Home = (props) => {
                       Twitter
                     </a>
                     <a
+                      href="https://proofofvibes.com/telegram"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link06"
+                    >
+                      Telegram
+                    </a>
+                    <a
                       href="https://proofofvibes.com/bos"
                       target="_blank"
                       rel="noreferrer noopener"
