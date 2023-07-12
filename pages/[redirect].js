@@ -3,7 +3,7 @@ import { useEffect } from "react";
 const RedirectLinks = {
   "/twitter": "https://twitter.com/VibesProof",
     "/bos": "https://near.org/near/widget/ProfilePage?accountId=proofofvibes.near",
-      "/github": "",
+      "/github": "https://github.com/proofofvibes",
         "/apply": "https://forms.gle/dkafkGbvqKvBXyet7",
           "/events": "https://neardc.org/telegram",
             "/telegram": "https://neardc.org/telegram",
