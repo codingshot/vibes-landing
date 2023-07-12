@@ -235,7 +235,7 @@ const Home = (props) => {
         <section className="home-customer">
           <div className="home-header05">
             <h2 className="home-heading2">
-              <span>Our teamslikes to Vibe at scale.</span>
+              <span>Our teams likes to Vibe at scale.</span>
               <br></br>
             </h2>
           </div>
