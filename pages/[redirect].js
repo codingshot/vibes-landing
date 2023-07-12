@@ -4,7 +4,7 @@ const RedirectLinks = {
   "/twitter": "https://twitter.com/VibesProof",
     "/bos": "https://near.org/near/widget/ProfilePage?accountId=proofofvibes.near",
       "/github": "",
-        "/apply": "",
+        "/apply": "https://forms.gle/dkafkGbvqKvBXyet7",
           "/events": "https://neardc.org/telegram",
             "/telegram": "https://neardc.org/telegram",
               "/tastemakers": "",
