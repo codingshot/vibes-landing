@@ -210,28 +210,6 @@ const Home = (props) => {
             className="home-image1"
           />
         </section>
-        <section className="home-partners">
-          <div className="home-content01">
-            <div className="home-objectives-list">
-              <div className="objective">
-                <h3 className="home-text06">Attend</h3>
-                <p className="home-text07">Find an exclusive vibe</p>
-              </div>
-              <div className="objective home-objective1">
-                <h3 className="home-text08">Curate</h3>
-                <p className="home-text09">
-                  Curate vibes for the community as a tastemaker
-                </p>
-              </div>
-              <div className="objective home-objective2">
-                <h3 className="home-text10">Earn</h3>
-                <p className="home-text11">
-                  Earn the more vibes you get and the better vibes you curate.
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
         <section className="home-supporters">
           <div className="home-content02">
             <div className="home-header05">
@@ -283,6 +261,29 @@ const Home = (props) => {
             </div>
           </div>
         </section>
+        <section className="home-partners">
+          <div className="home-content01">
+            <div className="home-objectives-list">
+              <div className="objective">
+                <h3 className="home-text06">Attend</h3>
+                <p className="home-text07">Find an exclusive vibe</p>
+              </div>
+              <div className="objective home-objective1">
+                <h3 className="home-text08">Curate</h3>
+                <p className="home-text09">
+                  Curate vibes for the community as a tastemaker
+                </p>
+              </div>
+              <div className="objective home-objective2">
+                <h3 className="home-text10">Earn</h3>
+                <p className="home-text11">
+                  Earn the more vibes you get and the better vibes you curate.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="home-customer">
           <div className="home-header06">
             <h2 className="home-heading3">
@@ -465,7 +466,7 @@ const Home = (props) => {
                       rel="noreferrer noopener"
                       className="home-link10"
                     >
-                      Twitter
+                      Telegram
                     </a>
                     <a
                       href="https://proofofvibes.com/bos"
