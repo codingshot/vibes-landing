@@ -25,8 +25,8 @@ const Home = (props) => {
             loop
             poster="/poster-1500h.png"
             preload="auto"
-            playsInline
             autoPlay
+            playsInline
             className="home-video"
           ></video>
           <header data-thq="thq-navbar" className="home-navbar">
@@ -210,8 +210,8 @@ const Home = (props) => {
             className="home-image1"
           />
         </section>
-        <section className="home-objectives">
-          <div className="home-content1">
+        <section className="home-partners">
+          <div className="home-content01">
             <div className="home-objectives-list">
               <div className="objective">
                 <h3 className="home-text06">Attend</h3>
@@ -232,10 +232,61 @@ const Home = (props) => {
             </div>
           </div>
         </section>
+        <section className="home-supporters">
+          <div className="home-content02">
+            <div className="home-header05">
+              <h2 className="home-heading2">
+                <span>Supported by Web&apos;3 Best</span>
+                <br></br>
+              </h2>
+            </div>
+            <div className="home-supporters1">
+              <div className="objective">
+                <a
+                  href="https://near.foundation"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  <img
+                    src="/nearfoundationlogo-1500w.png"
+                    alt="image"
+                    className="home-image2"
+                  />
+                </a>
+              </div>
+              <div className="objective">
+                <a
+                  href="https://neardc.org"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  <img
+                    src="/ndcsquarevector.svg"
+                    alt="image"
+                    className="home-image3"
+                  />
+                </a>
+              </div>
+              <div className="objective">
+                <a
+                  href="https://creativesdao.org"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
+                  <img
+                    src="/creativesdaotransparent-1500w.png"
+                    alt="image"
+                    className="home-image4"
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
         <section className="home-customer">
-          <div className="home-header05">
-            <h2 className="home-heading2">
-              <span>Our teams likes to Vibe at scale.</span>
+          <div className="home-header06">
+            <h2 className="home-heading3">
+              <span>Our team likes to Vibe at scale.</span>
               <br></br>
             </h2>
           </div>
@@ -305,9 +356,9 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-quote6">
-              <p className="home-quote7">A ceritificed CPA  & Co-Founder at Benjamin Leo + Associates</p>
+              <p className="home-quote7">A ceritificed CPA </p>
               <div className="home-author3">
-                <span className="home-name3">Benjamin Hout</span>
+                <span className="home-name3">Ben Hout</span>
                 <span className="home-location3">Chief Finance Officer</span>
               </div>
             </div>
@@ -332,39 +383,39 @@ const Home = (props) => {
           </div> */}
         </section>
         <section className="home-faq">
-          <div className="home-header06">
-            <h2 className="home-heading3">
+          <div className="home-header07">
+            <h2 className="home-heading4">
               <span>Frequently </span>
-              <span className="home-text18">vibed </span>
+              <span className="home-text20">vibed </span>
               <span>questions</span>
             </h2>
           </div>
-          <div className="home-content2">
+          <div className="home-content03">
             <div className="home-column">
               <div className="home-element">
-                <h3 className="home-header07">How do I earn a vibe?</h3>
-                <p className="home-content3">
+                <h3 className="home-header08">How do I earn a vibe?</h3>
+                <p className="home-content04">
                   Go to an event, tap in, and get your Proof of Vibe approved by
                   a tastemaker.
                 </p>
               </div>
               <div className="home-element1">
-                <h3 className="home-header08">Who can curate events?</h3>
-                <p className="home-content4">
+                <h3 className="home-header09">Who can curate events?</h3>
+                <p className="home-content05">
                   Only qualified tastemakers in the DAO can setup vibe checks.
                 </p>
               </div>
               <div className="home-element2">
-                <h3 className="home-header09">How can I earn?</h3>
-                <p className="home-content5">
+                <h3 className="home-header10">How can I earn?</h3>
+                <p className="home-content06">
                   Sign up for the NEAR Digital Collective&apos;s program
                 </p>
               </div>
             </div>
             <div className="home-column1">
               <div className="home-element3">
-                <h3 className="home-header10">What is a Proof of Vibe?</h3>
-                <p className="home-content6">
+                <h3 className="home-header11">What is a Proof of Vibe?</h3>
+                <p className="home-content07">
                   A Proof of Vibe is a verified non transferable credential that
                   verifies you vibes with vibe scores embedded into the
                   metadata. A protocols for vibees and tastemakers for IRL
@@ -372,9 +423,9 @@ const Home = (props) => {
                 </p>
               </div>
               <div className="home-element4">
-                <h3 className="home-header11">Who picks tastemakers?</h3>
-                <p className="home-content7">
-                  <span className="home-text20">
+                <h3 className="home-header12">Who picks tastemakers?</h3>
+                <p className="home-content08">
+                  <span className="home-text22">
                     Check out the Vibe DAO at proofofvibe.com/dao
                   </span>
                   <br></br>
@@ -384,27 +435,27 @@ const Home = (props) => {
           </div>
         </section>
         <div className="home-footer">
-          <div className="home-content8">
+          <div className="home-content09">
             <div className="home-main">
               <div className="home-branding1">
                 <img
                   alt="image"
                   src="/proofofvibesverticalwhite.svg"
-                  className="home-image2"
+                  className="home-image5"
                 />
-                <span className="home-text22">
+                <span className="home-text24">
                   Vibe to earn protocol powered by tastemakers globally.
                 </span>
               </div>
               <div className="home-links">
                 <div className="home-column2">
-                  <span className="home-header12">Learn More</span>
+                  <span className="home-header13">Learn More</span>
                   <div className="home-list">
                     <a
                       href="https://proofofvibes.com/twitter"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link06"
+                      className="home-link09"
                     >
                       Twitter
                     </a>
@@ -412,15 +463,15 @@ const Home = (props) => {
                       href="https://proofofvibes.com/telegram"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link06"
+                      className="home-link10"
                     >
-                      Telegram
+                      Twitter
                     </a>
                     <a
                       href="https://proofofvibes.com/bos"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link07"
+                      className="home-link11"
                     >
                       #BOS
                     </a>
@@ -428,7 +479,7 @@ const Home = (props) => {
                       href="https://proofofvibes.com"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link08"
+                      className="home-link12"
                     >
                       LinkedIn
                     </a>
@@ -436,21 +487,21 @@ const Home = (props) => {
                       href="https://proofofvibes.com/about"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link09"
+                      className="home-link13"
                     >
-                      <span className="home-text23">VibePaper</span>
+                      <span className="home-text25">VibePaper</span>
                       <br></br>
                     </a>
                   </div>
                 </div>
                 <div className="home-column3">
-                  <span className="home-header13">Vibe</span>
+                  <span className="home-header14">Vibe</span>
                   <div className="home-list1">
                     <a
                       href="https://proofofvibes.com/events"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link10"
+                      className="home-link14"
                     >
                       Events
                     </a>
@@ -458,7 +509,7 @@ const Home = (props) => {
                       href="https://https:/proofofvibes.com/tastemakers"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link11"
+                      className="home-link15"
                     >
                       Tastemakers
                     </a>
@@ -466,7 +517,7 @@ const Home = (props) => {
                       href="https://proofofvibes.com/human"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link12"
+                      className="home-link16"
                     >
                       Verify Human
                     </a>
@@ -474,7 +525,7 @@ const Home = (props) => {
                       href="https://proofofvibes.com/human"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link13"
+                      className="home-link17"
                     >
                       DAO
                     </a>
@@ -482,7 +533,7 @@ const Home = (props) => {
                       href="https://proofofvibes.com/members"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home-link14"
+                      className="home-link18"
                     >
                       <span>Vib</span>
                       <span>ees</span>
@@ -492,11 +543,11 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-bottom">
-              <span className="home-text27">
+              <span className="home-text29">
                 © 2023 Proof of Vibes - All rights reserved
               </span>
               <button data-role="scroll-top" className="home-button3 button">
-                <img alt="image" src="/arrow.svg" className="home-image3" />
+                <img alt="image" src="/arrow.svg" className="home-image6" />
               </button>
             </div>
           </div>
@@ -546,9 +597,11 @@ document.addEventListener("DOMContentLoaded", function() {
           .home-video {
             top: 0px;
             left: 0px;
-            width: 100%;
+            right: 0px;
+            width: 120%;
             filter: opacity(0.6);
             height: 100%;
+            margin: auto;
             position: absolute;
             object-fit: cover;
           }
@@ -902,7 +955,7 @@ document.addEventListener("DOMContentLoaded", function() {
             position: absolute;
             object-fit: cover;
           }
-          .home-objectives {
+          .home-partners {
             width: 100%;
             display: flex;
             max-width: var(--dl-size-size-maxwidth);
@@ -912,7 +965,7 @@ document.addEventListener("DOMContentLoaded", function() {
             flex-direction: row;
             justify-content: space-between;
           }
-          .home-content1 {
+          .home-content01 {
             flex: 1;
             display: flex;
             align-items: flex-start;
@@ -920,7 +973,7 @@ document.addEventListener("DOMContentLoaded", function() {
             border-color: #313133;
             flex-direction: row;
             padding-bottom: var(--dl-space-space-fiveunits);
-            justify-content: space-between;
+            justify-content: center;
             border-top-width: 1px;
           }
           .home-objectives-list {
@@ -929,10 +982,10 @@ document.addEventListener("DOMContentLoaded", function() {
             width: 940px;
             display: flex;
             align-items: flex-start;
-            margin-right: 89px;
-            padding-right: var(--dl-space-space-threeunits);
+            margin-right: 0px;
+            padding-right: 0px;
             flex-direction: row;
-            justify-content: flex-start;
+            justify-content: center;
           }
           .home-text06 {
             color: rgb(255, 255, 255);
@@ -964,13 +1017,25 @@ document.addEventListener("DOMContentLoaded", function() {
             color: rgb(124, 124, 128);
             line-height: 24px;
           }
-          .home-customer {
-            gap: var(--dl-space-space-fiveunits);
+          .home-supporters {
             width: 100%;
             display: flex;
-            align-items: flex-start;
+            max-width: var(--dl-size-size-maxwidth);
+            align-items: center;
+            padding-left: var(--dl-space-space-fiveunits);
+            padding-right: var(--dl-space-space-fiveunits);
+            flex-direction: row;
+            justify-content: center;
+          }
+          .home-content02 {
+            flex: 1;
+            display: flex;
+            padding-top: var(--dl-space-space-fiveunits);
+            border-color: #313133;
             flex-direction: column;
-            padding-bottom: var(--dl-space-space-sixunits);
+            padding-bottom: var(--dl-space-space-fiveunits);
+            justify-content: flex-start;
+            border-top-width: 1px;
           }
           .home-header05 {
             width: 100%;
@@ -983,6 +1048,64 @@ document.addEventListener("DOMContentLoaded", function() {
             color: rgb(255, 255, 255);
             font-size: 60px;
             max-width: 900px;
+            align-self: center;
+            font-style: normal;
+            text-align: center;
+            font-weight: 400;
+            padding-left: var(--dl-space-space-fiveunits);
+            padding-right: var(--dl-space-space-fiveunits);
+            padding-bottom: 1em;
+          }
+          .home-supporters1 {
+            gap: var(--dl-space-space-threeunits);
+            flex: 1;
+            width: 70em;
+            display: flex;
+            align-self: center;
+            align-items: center;
+            margin-right: 0px;
+            padding-right: 0px;
+            flex-direction: row;
+            justify-content: center;
+          }
+          .home-image2 {
+            width: 20em;
+            align-self: center;
+            object-fit: cover;
+            text-decoration: none;
+          }
+          .home-image3 {
+            width: 20em;
+            align-self: center;
+            object-fit: cover;
+            text-decoration: none;
+          }
+          .home-image4 {
+            width: 20em;
+            align-self: center;
+            object-fit: cover;
+            text-decoration: none;
+          }
+          .home-customer {
+            gap: var(--dl-space-space-fiveunits);
+            width: 100%;
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+            padding-bottom: var(--dl-space-space-sixunits);
+          }
+          .home-header06 {
+            width: 100%;
+            display: flex;
+            max-width: var(--dl-size-size-maxwidth);
+            align-self: center;
+            flex-direction: column;
+          }
+          .home-heading3 {
+            color: rgb(255, 255, 255);
+            font-size: 60px;
+            max-width: 900px;
+            align-self: flex-end;
             font-style: normal;
             font-weight: 400;
             padding-left: var(--dl-space-space-fiveunits);
@@ -998,6 +1121,7 @@ document.addEventListener("DOMContentLoaded", function() {
             padding-top: var(--dl-space-space-threeunits);
             border-color: rgba(255, 255, 255, 0.2);
             flex-direction: row;
+            justify-content: center;
             border-top-width: 1px;
             border-bottom-width: 1px;
           }
@@ -1212,24 +1336,24 @@ document.addEventListener("DOMContentLoaded", function() {
             flex-direction: column;
             padding-bottom: 160px;
           }
-          .home-header06 {
+          .home-header07 {
             gap: var(--dl-space-space-oneandhalfunits);
             display: flex;
             align-items: flex-start;
             flex-direction: row;
           }
-          .home-heading3 {
+          .home-heading4 {
             color: rgb(255, 255, 255);
             font-size: 60px;
             font-style: normal;
             font-weight: 400;
           }
-          .home-text18 {
+          .home-text20 {
             font-style: italic;
             font-family: Playfair Display;
             font-weight: 500;
           }
-          .home-content2 {
+          .home-content03 {
             gap: 120px;
             width: 100%;
             display: flex;
@@ -1260,14 +1384,14 @@ document.addEventListener("DOMContentLoaded", function() {
             border-right-width: 1px;
             border-bottom-width: 1px;
           }
-          .home-header07 {
+          .home-header08 {
             color: rgb(255, 255, 255);
             font-size: 24px;
             font-style: normal;
             font-weight: 500;
             line-height: 28px;
           }
-          .home-content3 {
+          .home-content04 {
             color: rgb(124, 124, 128);
             width: 100%;
             display: flex;
@@ -1288,14 +1412,14 @@ document.addEventListener("DOMContentLoaded", function() {
             border-right-width: 1px;
             border-bottom-width: 1px;
           }
-          .home-header08 {
+          .home-header09 {
             color: rgb(255, 255, 255);
             font-size: 24px;
             font-style: normal;
             font-weight: 500;
             line-height: 28px;
           }
-          .home-content4 {
+          .home-content05 {
             color: rgb(124, 124, 128);
             width: 100%;
             display: flex;
@@ -1316,14 +1440,14 @@ document.addEventListener("DOMContentLoaded", function() {
             border-right-width: 1px;
             border-bottom-width: 1px;
           }
-          .home-header09 {
+          .home-header10 {
             color: rgb(255, 255, 255);
             font-size: 24px;
             font-style: normal;
             font-weight: 500;
             line-height: 28px;
           }
-          .home-content5 {
+          .home-content06 {
             color: rgb(124, 124, 128);
             width: 100%;
             display: flex;
@@ -1353,14 +1477,14 @@ document.addEventListener("DOMContentLoaded", function() {
             border-right-width: 1px;
             border-bottom-width: 1px;
           }
-          .home-header10 {
+          .home-header11 {
             color: rgb(255, 255, 255);
             font-size: 24px;
             font-style: normal;
             font-weight: 500;
             line-height: 28px;
           }
-          .home-content6 {
+          .home-content07 {
             color: rgb(124, 124, 128);
             width: 100%;
             display: flex;
@@ -1381,14 +1505,14 @@ document.addEventListener("DOMContentLoaded", function() {
             border-right-width: 1px;
             border-bottom-width: 1px;
           }
-          .home-header11 {
+          .home-header12 {
             color: rgb(255, 255, 255);
             font-size: 24px;
             font-style: normal;
             font-weight: 500;
             line-height: 28px;
           }
-          .home-content7 {
+          .home-content08 {
             color: rgb(124, 124, 128);
             width: 100%;
             display: flex;
@@ -1404,7 +1528,7 @@ document.addEventListener("DOMContentLoaded", function() {
             padding-right: var(--dl-space-space-fiveunits);
             flex-direction: column;
           }
-          .home-content8 {
+          .home-content09 {
             gap: var(--dl-space-space-fiveunits);
             width: 100%;
             display: flex;
@@ -1430,11 +1554,11 @@ document.addEventListener("DOMContentLoaded", function() {
             align-items: flex-start;
             flex-direction: column;
           }
-          .home-image2 {
+          .home-image5 {
             width: var(--dl-size-size-xxlarge);
             object-fit: cover;
           }
-          .home-text22 {
+          .home-text24 {
             color: rgb(124, 124, 128);
             line-height: 24px;
           }
@@ -1451,7 +1575,7 @@ document.addEventListener("DOMContentLoaded", function() {
             align-items: flex-start;
             flex-direction: column;
           }
-          .home-header12 {
+          .home-header13 {
             font-size: 24px;
             font-style: italic;
             font-family: Playfair Display;
@@ -1462,36 +1586,6 @@ document.addEventListener("DOMContentLoaded", function() {
             align-items: flex-start;
             flex-direction: column;
           }
-          .home-link06 {
-            cursor: pointer;
-            font-size: 16px;
-            transition: 0.3s;
-            line-height: 32px;
-            text-decoration: none;
-          }
-          .home-link06:hover {
-            opacity: 0.5;
-          }
-          .home-link07 {
-            cursor: pointer;
-            font-size: 16px;
-            transition: 0.3s;
-            line-height: 32px;
-            text-decoration: none;
-          }
-          .home-link07:hover {
-            opacity: 0.5;
-          }
-          .home-link08 {
-            cursor: pointer;
-            font-size: 16px;
-            transition: 0.3s;
-            line-height: 32px;
-            text-decoration: none;
-          }
-          .home-link08:hover {
-            opacity: 0.5;
-          }
           .home-link09 {
             cursor: pointer;
             font-size: 16px;
@@ -1501,27 +1595,6 @@ document.addEventListener("DOMContentLoaded", function() {
           }
           .home-link09:hover {
             opacity: 0.5;
-          }
-          .home-text23:hover {
-            opacity: 0.5;
-          }
-          .home-column3 {
-            gap: var(--dl-space-space-threeunits);
-            color: white;
-            display: flex;
-            align-items: flex-start;
-            flex-direction: column;
-          }
-          .home-header13 {
-            font-size: 24px;
-            font-style: italic;
-            font-family: Playfair Display;
-            font-weight: 500;
-          }
-          .home-list1 {
-            display: flex;
-            align-items: flex-start;
-            flex-direction: column;
           }
           .home-link10 {
             cursor: pointer;
@@ -1563,6 +1636,27 @@ document.addEventListener("DOMContentLoaded", function() {
           .home-link13:hover {
             opacity: 0.5;
           }
+          .home-text25:hover {
+            opacity: 0.5;
+          }
+          .home-column3 {
+            gap: var(--dl-space-space-threeunits);
+            color: white;
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+          }
+          .home-header14 {
+            font-size: 24px;
+            font-style: italic;
+            font-family: Playfair Display;
+            font-weight: 500;
+          }
+          .home-list1 {
+            display: flex;
+            align-items: flex-start;
+            flex-direction: column;
+          }
           .home-link14 {
             cursor: pointer;
             font-size: 16px;
@@ -1573,6 +1667,46 @@ document.addEventListener("DOMContentLoaded", function() {
           .home-link14:hover {
             opacity: 0.5;
           }
+          .home-link15 {
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s;
+            line-height: 32px;
+            text-decoration: none;
+          }
+          .home-link15:hover {
+            opacity: 0.5;
+          }
+          .home-link16 {
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s;
+            line-height: 32px;
+            text-decoration: none;
+          }
+          .home-link16:hover {
+            opacity: 0.5;
+          }
+          .home-link17 {
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s;
+            line-height: 32px;
+            text-decoration: none;
+          }
+          .home-link17:hover {
+            opacity: 0.5;
+          }
+          .home-link18 {
+            cursor: pointer;
+            font-size: 16px;
+            transition: 0.3s;
+            line-height: 32px;
+            text-decoration: none;
+          }
+          .home-link18:hover {
+            opacity: 0.5;
+          }
           .home-bottom {
             width: 100%;
             display: flex;
@@ -1580,7 +1714,7 @@ document.addEventListener("DOMContentLoaded", function() {
             flex-direction: row;
             justify-content: space-between;
           }
-          .home-text27 {
+          .home-text29 {
             color: rgb(124, 124, 128);
             font-size: 14px;
             line-height: 21px;
@@ -1595,7 +1729,7 @@ document.addEventListener("DOMContentLoaded", function() {
             padding-bottom: var(--dl-space-space-unit);
             background-color: #b79bc7;
           }
-          .home-image3 {
+          .home-image6 {
             width: 21px;
             object-fit: cover;
           }
@@ -1628,7 +1762,7 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-top: var(--dl-space-space-oneandhalfunits);
               padding-bottom: var(--dl-space-space-oneandhalfunits);
             }
-            .home-content1 {
+            .home-content01 {
               gap: var(--dl-space-space-oneandhalfunits);
               flex-direction: column;
               justify-content: flex-start;
@@ -1642,15 +1776,30 @@ document.addEventListener("DOMContentLoaded", function() {
             .home-objective2 {
               flex: 1;
             }
-            .home-customer {
-              max-width: 1400px;
-              padding-left: var(--dl-space-space-fiveunits);
-              padding-right: var(--dl-space-space-fiveunits);
+            .home-content02 {
+              gap: var(--dl-space-space-oneandhalfunits);
+              flex-direction: column;
+              justify-content: flex-start;
             }
             .home-header05 {
               max-width: 100%;
             }
             .home-heading2 {
+              padding-left: 0px;
+              padding-right: 0px;
+            }
+            .home-supporters1 {
+              padding-right: 0px;
+            }
+            .home-customer {
+              max-width: 1400px;
+              padding-left: var(--dl-space-space-fiveunits);
+              padding-right: var(--dl-space-space-fiveunits);
+            }
+            .home-header06 {
+              max-width: 100%;
+            }
+            .home-heading3 {
               padding-left: 0px;
               padding-right: 0px;
             }
@@ -1728,7 +1877,7 @@ document.addEventListener("DOMContentLoaded", function() {
             .home-faq {
               padding-bottom: var(--dl-space-space-fiveunits);
             }
-            .home-content2 {
+            .home-content03 {
               gap: var(--dl-space-space-oneandhalfunits);
               flex-direction: column;
               justify-content: flex-start;
@@ -1736,49 +1885,49 @@ document.addEventListener("DOMContentLoaded", function() {
             .home-column {
               max-width: 100%;
             }
-            .home-header07 {
-              font-size: 24px;
-            }
-            .home-content3 {
-              font-size: 14px;
-              line-height: 21px;
-            }
             .home-header08 {
               font-size: 24px;
             }
-            .home-content4 {
+            .home-content04 {
               font-size: 14px;
               line-height: 21px;
             }
             .home-header09 {
               font-size: 24px;
             }
-            .home-content5 {
+            .home-content05 {
+              font-size: 14px;
+              line-height: 21px;
+            }
+            .home-header10 {
+              font-size: 24px;
+            }
+            .home-content06 {
               font-size: 14px;
               line-height: 21px;
             }
             .home-column1 {
               max-width: 100%;
             }
-            .home-header10 {
-              font-size: 24px;
-            }
-            .home-content6 {
-              font-size: 14px;
-              line-height: 21px;
-            }
             .home-header11 {
               font-size: 24px;
             }
-            .home-content7 {
+            .home-content07 {
               font-size: 14px;
               line-height: 21px;
             }
-            .home-text20 {
+            .home-header12 {
+              font-size: 24px;
+            }
+            .home-content08 {
               font-size: 14px;
               line-height: 21px;
             }
-            .home-content8 {
+            .home-text22 {
+              font-size: 14px;
+              line-height: 21px;
+            }
+            .home-content09 {
               border-top-width: 0px;
             }
             .home-main {
@@ -1864,15 +2013,27 @@ document.addEventListener("DOMContentLoaded", function() {
             .home-image1 {
               width: 300px;
             }
-            .home-objectives {
+            .home-partners {
               padding-left: var(--dl-space-space-oneandhalfunits);
               padding-right: var(--dl-space-space-oneandhalfunits);
             }
-            .home-content1 {
+            .home-content01 {
               padding-top: var(--dl-space-space-threeunits);
               padding-bottom: var(--dl-space-space-threeunits);
             }
             .home-objectives-list {
+              width: 100%;
+              flex-direction: column;
+            }
+            .home-supporters {
+              padding-left: var(--dl-space-space-oneandhalfunits);
+              padding-right: var(--dl-space-space-oneandhalfunits);
+            }
+            .home-content02 {
+              padding-top: var(--dl-space-space-threeunits);
+              padding-bottom: var(--dl-space-space-threeunits);
+            }
+            .home-supporters1 {
               width: 100%;
               flex-direction: column;
             }
@@ -2006,11 +2167,11 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-right: var(--dl-space-space-oneandhalfunits);
               padding-bottom: var(--dl-space-space-threeunits);
             }
-            .home-header06 {
+            .home-header07 {
               gap: var(--dl-space-space-unit);
               align-items: center;
             }
-            .home-heading3 {
+            .home-heading4 {
               font-size: 36px;
             }
             .home-column {
@@ -2023,7 +2184,7 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-bottom: var(--dl-space-space-oneandhalfunits);
               border-right-width: 0px;
             }
-            .home-header07 {
+            .home-header08 {
               font-size: 16px;
               line-height: 20px;
             }
@@ -2034,7 +2195,7 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-bottom: var(--dl-space-space-oneandhalfunits);
               border-right-width: 0px;
             }
-            .home-header08 {
+            .home-header09 {
               font-size: 16px;
               line-height: 20px;
             }
@@ -2045,7 +2206,7 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-bottom: var(--dl-space-space-oneandhalfunits);
               border-right-width: 0px;
             }
-            .home-header09 {
+            .home-header10 {
               font-size: 16px;
               line-height: 20px;
             }
@@ -2059,7 +2220,7 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-bottom: var(--dl-space-space-oneandhalfunits);
               border-right-width: 0px;
             }
-            .home-header10 {
+            .home-header11 {
               font-size: 16px;
               line-height: 20px;
             }
@@ -2070,7 +2231,7 @@ document.addEventListener("DOMContentLoaded", function() {
               padding-bottom: var(--dl-space-space-oneandhalfunits);
               border-right-width: 0px;
             }
-            .home-header11 {
+            .home-header12 {
               font-size: 16px;
               line-height: 20px;
             }
@@ -2127,7 +2288,7 @@ document.addEventListener("DOMContentLoaded", function() {
             .home-button2 {
               text-align: center;
             }
-            .home-header06 {
+            .home-header07 {
               gap: 0px;
               align-items: flex-start;
               flex-direction: column;
