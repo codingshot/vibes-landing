@@ -17,6 +17,7 @@ const RedirectLinks = {
                       "/sbts": "https://i-am-human.app/community-sbts",
                       "/about": "https://proofofvibes.vercel.app/about/b1db17ba1752463ea6e48e6936cbd839",
                       "/feed": "https://near.org/proofofvibes.near/widget/vibes.social",
+                      "/book": "https://calendly.com/proofofvibes",
 };
 
 const Redirect = () => {
