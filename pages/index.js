@@ -284,7 +284,7 @@ const Home = (props) => {
           </div>
         </section>
 
-        <section className="home-customer">
+        {/* <section className="home-customer">
           <div className="home-header06">
             <h2 className="home-heading3">
               <span>Our team likes to Vibe at scale.</span>
@@ -363,7 +363,7 @@ const Home = (props) => {
                 <span className="home-location3">Chief Finance Officer</span>
               </div>
             </div>
-          </div>
+          </div> */}
           {/* <div className="home-controls">
             <button className="home-previous button">
               <svg viewBox="0 0 1024 1024" className="home-icon5">
@@ -382,7 +382,7 @@ const Home = (props) => {
               </span>
             </button>
           </div> */}
-        </section>
+        {/* </section> */}
         <section className="home-faq">
           <div className="home-header07">
             <h2 className="home-heading4">
