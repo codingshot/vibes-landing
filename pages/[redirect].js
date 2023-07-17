@@ -20,6 +20,9 @@ const RedirectLinks = {
                       "/book": "https://calendly.com/proofofvibes",
                       "/dao": "https://near.org/ndcplug.near/widget/DAO.main?daoId=vibes.sputnik-dao.near&tab=proposals",
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
+                      "/wallet": "https://shard.dog/proofofvibes",
+
+      
 };
 
 const Redirect = () => {
