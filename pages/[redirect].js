@@ -21,6 +21,8 @@ const RedirectLinks = {
                       "/dao": "https://near.org/ndcplug.near/widget/DAO.main?daoId=vibes.sputnik-dao.near&tab=proposals",
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
                       "/wallet": "https://shard.dog/proofofvibes",
+                      "/russ-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ogruss.near",
+                      "/feed": "https://near.org/efiz.near/widget/every.vibe",
 
       
 };
