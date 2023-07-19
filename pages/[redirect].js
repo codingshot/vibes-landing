@@ -23,6 +23,9 @@ const RedirectLinks = {
                       "/wallet": "https://shard.dog/proofofvibes",
                       "/russ-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ogruss.near",
                       "/feed": "https://near.org/efiz.near/widget/every.vibe",
+                      "/plug-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ndcplug.near",
+                      "/will-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=atrox1382.near",
+                      "/illumnifti-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
 
       
 };
