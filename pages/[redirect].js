@@ -18,7 +18,7 @@ const RedirectLinks = {
                       "/about": "https://proofofvibes.vercel.app/about/b1db17ba1752463ea6e48e6936cbd839",
                       "/feed": "https://www.near.org/proofofvibes.near/widget/Vibes.Feed.main",
                       "/book": "https://calendly.com/proofofvibes",
-                      "/dao": "https://near.org/ndcplug.near/widget/DAO.main?daoId=vibes.sputnik-dao.near&tab=proposals",
+                      "/dao": "https://www.near.org/proofofvibes.near/widget/Vibes.DAO.main",
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
                       "/wallet": "https://shard.dog/proofofvibes",
                       "/russ-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ogruss.near",
