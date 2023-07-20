@@ -16,7 +16,7 @@ const RedirectLinks = {
                       "/genadrop": "https://genadrop.io/mint/vibe",
                       "/sbts": "https://i-am-human.app/community-sbts",
                       "/about": "https://proofofvibes.vercel.app/about/b1db17ba1752463ea6e48e6936cbd839",
-                      "/feed": "https://near.org/proofofvibes.near/widget/vibes.social",
+                      "/feed": "https://www.near.org/proofofvibes.near/widget/Vibes.Feed.main",
                       "/book": "https://calendly.com/proofofvibes",
                       "/dao": "https://near.org/ndcplug.near/widget/DAO.main?daoId=vibes.sputnik-dao.near&tab=proposals",
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
@@ -26,6 +26,7 @@ const RedirectLinks = {
                       "/plug-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ndcplug.near",
                       "/will-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=atrox1382.near",
                       "/illumnifti-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
+                      "/members": "",
 
       
 };
