@@ -23,7 +23,7 @@ const Home = (props) => {
           <video
             src="https://www.nearefi.org/vibesboat.mp4"
             loop
-            poster="/poster-1500h.png"
+            poster="/vibesboat.gif"
             preload="auto"
             autoPlay
             playsInline
