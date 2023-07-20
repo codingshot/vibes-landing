@@ -11,7 +11,6 @@ const RedirectLinks = {
               "/tastemakers": "",
                 "/horizon": "https://near.org/nearhorizon.near/widget/Index?tab=project&accountId=proofofvibes.near",
                     "/linkedin": "https://www.linkedin.com/company/proof-of-vibes/",
-                     "/members": "",
                       "/dao": "https://www.near.org/proofofvibes.near/widget/Vibes.DAO.main",
                       "/genadrop": "https://genadrop.io/mint/vibe",
                       "/sbts": "https://i-am-human.app/community-sbts",
@@ -21,12 +20,12 @@ const RedirectLinks = {
                       "/dao": "https://www.near.org/proofofvibes.near/widget/Vibes.DAO.main",
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
                       "/wallet": "https://shard.dog/proofofvibes",
-                      "/russ-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ogruss.near",
-                      "/feed": "https://near.org/efiz.near/widget/every.vibe",
-                      "/plug-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ndcplug.near",
-                      "/will-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=atrox1382.near",
-                      "/illumnifti-tapin": "https://near.org/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
-                      "/members": "",
+                      "/russ-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ogruss.near",
+                      "/feed": "https://near.social/#/efiz.near/widget/every.vibe",
+                      "/plug-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ndcplug.near",
+                      "/will-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=atrox1382.near",
+                      "/illumnifti-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
+                      "/members": "https://near.org/proofofvibes.near/widget/Vibes.DAO.main?daoId=vibes.sputnik-dao.near&issuer=issuer.proofofvibes.near&accountId=proofofvibes.near&role=vibee&sbtTitle=&tab=members",
 
       
 };
