@@ -523,7 +523,7 @@ const Home = (props) => {
                       Verify Human
                     </a>
                     <a
-                      href="https://proofofvibes.com/human"
+                      href="https://proofofvibes.com/dao"
                       target="_blank"
                       rel="noreferrer noopener"
                       className="home-link17"
