@@ -12,7 +12,7 @@ const RedirectLinks = {
                 "/horizon": "https://near.org/nearhorizon.near/widget/Index?tab=project&accountId=proofofvibes.near",
                     "/linkedin": "https://www.linkedin.com/company/proof-of-vibes/",
                      "/members": "",
-                      "/dao": "https://near.org/ndcplug.near/widget/DAO.main?daoId=vibes.sputnik-dao.near",
+                      "/dao": "https://www.near.org/proofofvibes.near/widget/Vibes.DAO.main",
                       "/genadrop": "https://genadrop.io/mint/vibe",
                       "/sbts": "https://i-am-human.app/community-sbts",
                       "/about": "https://proofofvibes.vercel.app/about/b1db17ba1752463ea6e48e6936cbd839",
