@@ -21,7 +21,7 @@ const RedirectLinks = {
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
                       "/wallet": "https://shard.dog/proofofvibes",
                       "/russ-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ogruss.near",
-                      "/feed": "https://near.social/#/efiz.near/widget/every.vibe",
+                      "/feed": "https://near.social/#/proofofvibes.near/widget/Vibes.Feed.main",
                       "/plug-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ndcplug.near",
                       "/will-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=atrox1382.near",
                       "/illumnifti-tapin": "https://near.social/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
