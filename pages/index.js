@@ -475,7 +475,7 @@ const Home = (props) => {
                       rel="noreferrer noopener"
                       className="home-link11"
                     >
-                      #BOS
+                      NEAR Social
                     </a>
                     <a
                       href="https://proofofvibes.com"
