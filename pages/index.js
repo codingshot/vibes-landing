@@ -63,6 +63,22 @@ const Home = (props) => {
                   data-role="Nav"
                   className="home-nav1"
                 >
+                                    <a
+                    href="https://app.proofofvibes.com/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link03"
+                  >
+                    App
+                  </a>
+                  <a
+                    href="https://proofofvibes.com/dao"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link02"
+                  >
+                    The DAO
+                  </a>
                   <a
                     href="https://proofofvibes.com/about"
                     target="_blank"
@@ -79,22 +95,7 @@ const Home = (props) => {
                   >
                     Tastemakers
                   </a>
-                  <a
-                    href="https://proofofvibes.com/dao"
-                    target="_blank"
-                    rel="noreferrer noopener"
-                    className="home-link02"
-                  >
-                    The DAO
-                  </a>
-                  <a
-                    href="https://proofofvibes.com/dao"
-                    target="_blank"
-                    rel="noreferrer noopener"
-                    className="home-link03"
-                  >
-                    #BOS
-                  </a>
+
                 </nav>
                 <div className="home-container2">
                   <a
