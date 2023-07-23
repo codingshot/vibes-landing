@@ -7,7 +7,7 @@ const RedirectLinks = {
         "/apply": "https://forms.gle/dkafkGbvqKvBXyet7",
           "/events": "https://t.me/+NjNy-5yl_KllNmYx",
             "/telegram": "https://t.me/+NjNy-5yl_KllNmYx",
-            "/human": "https://i-am-human.app/?community=nearrefi&vertical=infrastucture",
+            "/human": "https://i-am-human.app/?community=proofofvibes&vertical=infrastructure",
               "/tastemakers": "",
                 "/horizon": "https://near.org/nearhorizon.near/widget/Index?tab=project&accountId=proofofvibes.near",
                     "/linkedin": "https://www.linkedin.com/company/proof-of-vibes/",
