@@ -24,6 +24,7 @@ const RedirectLinks = {
                       "/feed": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.Feed.main",
                       "/plug-tapin": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=ndcplug.near",
                       "/will-tapin": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=atrox1382.near",
+                      "/derceo-tapin": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=derceo.near",
                       "/illumnifti-tapin": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
                       "/members": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.DAO.main?daoId=vibes.sputnik-dao.near&issuer=issuer.proofofvibes.near&accountId=proofofvibes.near&role=vibee&sbtTitle=&tab=members",
                       "/sharddog-holders": "https://app.proofofvibes.com/#/ndcplug.near/widget/Sharddog.Holders?series=161",
