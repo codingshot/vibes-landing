@@ -548,9 +548,9 @@ const Home = (props) => {
               <span className="home-text29">
                 © 2023 Proof of Vibes - All rights reserved
               </span>
-              <button data-role="scroll-top" className="home-button3 button">
+              {/* <button data-role="scroll-top" className="home-button3 button">
                 <img alt="image" src="/arrow.svg" className="home-image6" />
-              </button>
+              </button> */}
             </div>
           </div>
         </div>
