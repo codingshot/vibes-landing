@@ -28,6 +28,7 @@ const RedirectLinks = {
                       "/illumnifti-tapin": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.Tastemakers.tapIn?accountId=fiftycent.near",
                       "/members": "https://app.proofofvibes.com/#/proofofvibes.near/widget/Vibes.DAO.main?daoId=vibes.sputnik-dao.near&issuer=issuer.proofofvibes.near&accountId=proofofvibes.near&role=vibee&sbtTitle=&tab=members",
                       "/sharddog-holders": "https://app.proofofvibes.com/#/ndcplug.near/widget/Sharddog.Holders?series=161",
+                      "/components": "https://app.proofofvibes.com/#/near/widget/ProfilePage?accountId=proofofvibes.near&tab=apps",
 
       
 };
