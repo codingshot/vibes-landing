@@ -15,7 +15,6 @@ const RedirectLinks = {
                       "/genadrop": "https://genadrop.io/mint/vibe",
                       "/sbts": "https://i-am-human.app/community-sbts",
                       "/about": "https://proofofvibes.vercel.app/about/b1db17ba1752463ea6e48e6936cbd839",
-                      "/feed": "https://www.near.org/proofofvibes.near/widget/Vibes.Feed.main",
                       "/book": "https://calendly.com/proofofvibes",
                       "/dao": "https://www.near.org/proofofvibes.near/widget/Vibes.DAO.main",
                       "/sbt-v1-flow": "https://miro.com/app/board/uXjVM1gTAfg=/?share_link_id=178384065579",
@@ -30,6 +29,8 @@ const RedirectLinks = {
                       "/sharddog-holders": "https://app.proofofvibes.com/#/ndcplug.near/widget/Sharddog.Holders?series=161",
                       "/components": "https://app.proofofvibes.com/#/near/widget/ProfilePage?accountId=proofofvibes.near&tab=apps",
                       "/gateway": "https://github.com/nearbos/vibes-bos",
+                      "/deploy-gateway": "https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnearbos%2Fvibes-bos&build-command=npm%20run%20build&install-command=npm%20--force%20install&output-directory=dist",
+                      "/feedback": "https://vibes.canny.io/",
 
       
 };
