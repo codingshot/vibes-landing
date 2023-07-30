@@ -1,5 +1,5 @@
 import "./style.css";
-import * as gtag from "components/gtag.js"
+import * as gtag from "./components/gtag.js"
 import Script from "next/script"
 import { useRouter } from "next/router"
 import { useEffect } from "react"
