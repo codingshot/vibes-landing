@@ -468,6 +468,14 @@ const Home = (props) => {
                       className="home-link10"
                     >
                       Telegram
+                      <a
+                      href="https://docs.proofofvibes.com/"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link11"
+                    >
+                      Docs
+                    </a>
                     </a>
                     <a
                       href="https://proofofvibes.com/bos"
@@ -499,6 +507,14 @@ const Home = (props) => {
                 <div className="home-column3">
                   <span className="home-header14">Vibe</span>
                   <div className="home-list1">
+                  <a
+                      href="https://proofofvibes.com/feedback"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link14"
+                    >
+                      Feedback
+                    </a>
                     <a
                       href="https://proofofvibes.com/events"
                       target="_blank"
