@@ -150,13 +150,13 @@ const Home = (props) => {
               </p>
             </div>
             <a
-              href="https://proofofvibes.com/events"
+              href="https://app.proofofvibes.com/"
               target="_blank"
               rel="noreferrer noopener"
               className="home-link05 button"
             >
               <span>
-                <span>Find An Event</span>
+                <span>Tap-In</span>
                 <br></br>
               </span>
             </a>
@@ -431,7 +431,7 @@ const Home = (props) => {
                 <h3 className="home-header12">Who picks tastemakers?</h3>
                 <p className="home-content08">
                   <span className="home-text22">
-                    Check out the Vibe DAO at proofofvibe.com/dao
+                    Check out the Vibe DAO at proofofvibes.com/dao
                   </span>
                   <br></br>
                 </p>
@@ -489,7 +489,7 @@ const Home = (props) => {
                       NEAR Social
                     </a>
                     <a
-                      href="https://proofofvibes.com"
+                      href="https://proofofvibes.com/linkedin"
                       target="_blank"
                       rel="noreferrer noopener"
                       className="home-link12"
@@ -527,7 +527,7 @@ const Home = (props) => {
                       Events
                     </a>
                     <a
-                      href="https://https:/proofofvibes.com/tastemakers"
+                      href="https://proofofvibes.com/tastemakers"
                       target="_blank"
                       rel="noreferrer noopener"
                       className="home-link15"
