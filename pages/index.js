@@ -492,14 +492,14 @@ const Home = (props) => {
                       className="home-link10"
                     >
                       Telegram
-                      <a
+                    </a>
+                    <a
                       href="https://docs.proofofvibes.com/"
                       target="_blank"
                       rel="noreferrer noopener"
                       className="home-link11"
                     >
                       Docs
-                    </a>
                     </a>
                     <a
                       href="https://proofofvibes.com/bos"
