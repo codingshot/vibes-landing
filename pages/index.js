@@ -5,10 +5,10 @@ import Script from 'dangerous-html/react'
 import Script from 'next/script';
 
 const GA_MEASUREMENT_ID = 'G-82RT59S343';
-
+const gTagLink = "https://www.googletagmanager.com/gtag/js?id=" + GA_MEASUREMENT_ID;
 const gtagScript = (
   <Script
-    src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"
+    src={gTagLink}
     strategy="afterInteractive"
   />
 );
