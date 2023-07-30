@@ -2,6 +2,27 @@ import React from 'react'
 import Head from 'next/head'
 
 import Script from 'dangerous-html/react'
+import Script from 'next/script';
+
+const GA_MEASUREMENT_ID = 'G-82RT59S343';
+
+const gtagScript = (
+  <Script
+    src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"
+    strategy="afterInteractive"
+  />
+);
+
+const googleAnalyticsScript = (
+  <Script id="google-analytics">
+    {`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{GA_MEASUREMENT_ID}');
+    `}
+  </Script>
+);
 
 const Home = (props) => {
   return (
@@ -19,6 +40,9 @@ const Home = (props) => {
             content="The first vibe to earn platform powered by the world's finest tastemakers. "
           />
         </Head>
+        {gtagScript}
+      {googleAnalyticsScript}
+        
         <section className="home-hero">
           <video
             src="https://www.nearefi.org/vibesboat.mp4"
