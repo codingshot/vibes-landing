@@ -527,6 +527,14 @@ const Home = (props) => {
                       Events
                     </a>
                     <a
+                      href="https://proofofvibes.com/partner"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link14"
+                    >
+                      Partner w. Us
+                    </a>
+                    <a
                       href="https://proofofvibes.com/tastemakers"
                       target="_blank"
                       rel="noreferrer noopener"

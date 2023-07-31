@@ -31,6 +31,7 @@ const RedirectLinks = {
                       "/gateway": "https://github.com/nearbos/vibes-bos",
                       "/deploy-gateway": "https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnearbos%2Fvibes-bos&build-command=npm%20run%20build&install-command=npm%20--force%20install&output-directory=dist",
                       "/feedback": "https://vibes.canny.io/",
+                      "/partner": "https://forms.gle/xFqzzimKkFpGH8gx5",
 
       
 };
