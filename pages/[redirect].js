@@ -34,6 +34,7 @@ const RedirectLinks = {
                       "/partner": "https://forms.gle/xFqzzimKkFpGH8gx5",
                       "/metrics-canny": "https://app.databox.com/datawall/5d7806b07071f467380bf606e83c53922bfe1c064c964a9",
                       "/metrics-landing": "https://app.databox.com/datawall/a02142490de75123f6324b6c3ebc98eb5a7954064c94a36",
+                      "/metrics-docs": "https://app.databox.com/datawall/55076c1f37e0d595f937bd98996de771501c14c64cabf8e",
                       "/metrics-gateway": "",
 
       
