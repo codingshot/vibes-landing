@@ -30,7 +30,7 @@ const metrics = () => {
           <div className="card">
             <div>
               <img src="/card3.png" alt="" />
-              <p>Canny</p>
+              <p style={{ color: "black" }}>Canny</p>
             </div>
           </div>
         </Link>
@@ -38,7 +38,7 @@ const metrics = () => {
           <div className="card">
             <div>
               <img src="/card2.png" alt="" />
-              <p style={{ color: "black" }}>Docs</p>
+              <p>Docs</p>
             </div>
           </div>
         </Link>
