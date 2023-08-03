@@ -29,7 +29,7 @@ const metrics = () => {
         <Link href={"/metrics-canny"}>
           <div className="card">
             <div>
-              <img src="/card2.png" alt="" />
+              <img src="/card3.png" alt="" />
               <p>Canny</p>
             </div>
           </div>
@@ -37,7 +37,7 @@ const metrics = () => {
         <Link href={"/metrics-docs"}>
           <div className="card">
             <div>
-              <img src="/card3.png" alt="" />
+              <img src="/card2.png" alt="" />
               <p style={{ color: "black" }}>Docs</p>
             </div>
           </div>
