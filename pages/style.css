@@ -1,14 +1,14 @@
 :root {
   --dl-color-gray-500: #4d4b4bff;
   --dl-color-gray-700: #999999;
-  --dl-color-gray-900: #D9D9D9;
+  --dl-color-gray-900: #d9d9d9;
   --dl-size-size-large: 144px;
   --dl-size-size-small: 48px;
-  --dl-color-danger-300: #A22020;
-  --dl-color-danger-500: #BF2626;
-  --dl-color-danger-700: #E14747;
+  --dl-color-danger-300: #a22020;
+  --dl-color-danger-500: #bf2626;
+  --dl-color-danger-700: #e14747;
   --dl-color-gray-black: #000000;
-  --dl-color-gray-white: #FFFFFF;
+  --dl-color-gray-white: #ffffff;
   --dl-size-size-medium: 96px;
   --dl-size-size-xlarge: 192px;
   --dl-size-size-xsmall: 16px;
@@ -17,8 +17,8 @@
   --dl-color-primary-500: #e8a6aaff;
   --dl-color-primary-700: #6199d0ff;
   --dl-color-success-300: #199033;
-  --dl-color-success-500: #32A94C;
-  --dl-color-success-700: #4CC366;
+  --dl-color-success-500: #32a94c;
+  --dl-color-success-700: #4cc366;
   --dl-size-size-xxlarge: 288px;
   --dl-size-size-maxwidth: 1400px;
   --dl-radius-radius-round: 50%;
@@ -49,7 +49,7 @@
   border-radius: 40px;
   padding-right: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-oneandhalfunits);
-  background-color: #0000F5;
+  background-color: #0000f5;
 }
 .button:hover {
   opacity: 0.7;
@@ -105,7 +105,7 @@
   opacity: 0.5;
 }
 .slide-title-active {
-  border-color: #0000F5;
+  border-color: #0000f5;
 }
 .banner {
   cursor: pointer;
@@ -114,7 +114,7 @@
   align-items: flex-start;
   border-width: 0px;
   flex-direction: row;
-  background-color: #0000F5;
+  background-color: #0000f5;
 }
 .banner-smaller {
   width: 620px;
@@ -131,7 +131,7 @@
   cursor: pointer;
   height: 12px;
   display: inline-block;
-  transition: width .25s ease;
+  transition: width 0.25s ease;
   border-radius: 12px;
   background-color: ef9911;
 }
@@ -171,7 +171,7 @@
   border-bottom-width: 1px;
 }
 .accordion-content {
-  color: #7C7C80;
+  color: #7c7c80;
   width: 100%;
   display: none;
   max-width: 560px;
@@ -181,12 +181,9 @@
   display: flex;
 }
 
-
-
 .blaze-track {
   cursor: grabbing;
 }
-
 
 .slider {
   -slides-to-show: 3;
@@ -200,7 +197,77 @@
   text-transform: none;
   text-decoration: none;
 }
-@media(max-width: 991px) {
+.metrics-container {
+  padding: var(--dl-space-space-fiveunits) 0;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  gap: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+  background-color: #000000;
+}
+.metrics-header {
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: center;
+}
+.metrics-cards {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
+.card {
+  cursor: pointer;
+  border-right: 1px solid #313133;
+  border-bottom: 1px solid #313133;
+}
+.card > div {
+  position: relative;
+  margin-right: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-threeunits);
+  display: flex;
+}
+.card img {
+  filter: blur(2px);
+  height: auto;
+  width: 320px;
+  object-fit: cover;
+  transition: all 300ms ease;
+}
+.card:hover img {
+  filter: blur(0);
+}
+.card:hover p {
+  opacity: 0;
+}
+.card p {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  opacity: 1;
+  transition: all 300ms ease;
+}
+@media (max-width: 991px) {
   .banner {
     flex-direction: column;
   }
@@ -221,7 +288,7 @@
     line-height: 21px;
   }
 }
-@media(max-width: 767px) {
+@media (max-width: 767px) {
   .objective {
     gap: var(--dl-space-space-unit);
     max-width: 100%;
@@ -230,9 +297,19 @@
     padding-top: 0px;
     padding-bottom: var(--dl-space-space-unit);
   }
+  .metrics-header {
+    font-size: 36px;
+  }
 }
-@media(max-width: 479px) {
+@media (max-width: 479px) {
   .button {
     width: 100%;
+  }
+  .card img {
+    width: 300px;
+  }
+  .card > div {
+    margin-right: 16px;
+    margin-bottom: 16px;
   }
 }
