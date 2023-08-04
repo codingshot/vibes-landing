@@ -30,11 +30,12 @@ const RedirectLinks = {
                       "/components": "https://app.proofofvibes.com/#/near/widget/ProfilePage?accountId=proofofvibes.near&tab=apps",
                       "/gateway": "https://github.com/nearbos/vibes-bos",
                       "/deploy-gateway": "https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnearbos%2Fvibes-bos&build-command=npm%20run%20build&install-command=npm%20--force%20install&output-directory=dist",
-                      "/feedback": "https://vibes.canny.io/",
+                      "/feedback": "https://vibes.canny.io/feedback/",
                       "/partner": "https://forms.gle/xFqzzimKkFpGH8gx5",
                       "/metrics-canny": "https://app.databox.com/datawall/5d7806b07071f467380bf606e83c53922bfe1c064c964a9",
                       "/metrics-landing": "https://app.databox.com/datawall/a02142490de75123f6324b6c3ebc98eb5a7954064c94a36",
                       "/metrics-docs": "https://app.databox.com/datawall/55076c1f37e0d595f937bd98996de771501c14c64cabf8e",
+                      "/app": "https://app.ProofofVibes.com",
                       "/metrics-gateway": "",
 
       
