@@ -37,6 +37,8 @@ const RedirectLinks = {
                       "/metrics-docs": "https://app.databox.com/datawall/55076c1f37e0d595f937bd98996de771501c14c64cabf8e",
                       "/app": "https://app.ProofofVibes.com",
                       "/metrics-gateway": "",
+                      "/near": "https://near.org/proofofvibes.near/widget/Vibes.main",
+                      "/nearsocial": "https://near.social/proofofvibes.near/widget/Vibes.main",
 
       
 };
