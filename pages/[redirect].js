@@ -39,6 +39,7 @@ const RedirectLinks = {
                       "/metrics-gateway": "",
                       "/near": "https://near.org/proofofvibes.near/widget/Vibes.main",
                       "/nearsocial": "https://near.social/proofofvibes.near/widget/Vibes.main",
+                      "/apple-playlist": "https://music.apple.com/us/playlist/proof-of-vibes-playlist/pl.u-e98lGLjCa1zqaMx",
 
       
 };
