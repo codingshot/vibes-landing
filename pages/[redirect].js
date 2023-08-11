@@ -41,6 +41,7 @@ const RedirectLinks = {
                       "/vibecheck": "https://near.org/proofofvibes.near/widget/Vibes.main",
                       "/nearsocial": "https://near.social/proofofvibes.near/widget/Vibes.main",
                       "/apple-playlist": "https://music.apple.com/us/playlist/proof-of-vibes-playlist/pl.u-e98lGLjCa1zqaMx",
+                      "/screening": "https://us05web.zoom.us/j/83163983928?pwd=0WgeNL8nhf9SGzQLUw1ojf5BjtaDqM.1",
 
       
 };
