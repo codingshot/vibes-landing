@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from 'next/document'
+import Document, { Html, Head, Main, NextScript } from "next/document";
 class CustomDocument extends Document {
   render() {
     return (
@@ -20,7 +20,7 @@ class CustomDocument extends Document {
           <style
             dangerouslySetInnerHTML={{
               __html:
-                '\n  html {\n    font-family: Inter;\n    font-size: 16px;\n  }\n\n  body {\n    font-weight: 400;\n    font-style:normal;\n    text-decoration: none;\n    text-transform: none;\n    letter-spacing: normal;\n    line-height: 1.15;\n    color: var(--dl-color-gray-black);\n    background-color: var(--dl-color-gray-white);\n    \n  }\n\n  \n\n  ',
+                "\n  html {\n    font-family: Inter;\n    font-size: 16px;\n  }\n\n  body {\n    font-weight: 400;\n    font-style:normal;\n    text-decoration: none;\n    text-transform: none;\n    letter-spacing: normal;\n    line-height: 1.15;\n    color: var(--dl-color-gray-black);\n    background-color: var(--dl-color-gray-white);\n    \n  }\n\n  \n\n  ",
             }}
             data-tag="default-style-sheet"
           ></style>
@@ -46,6 +46,7 @@ class CustomDocument extends Document {
                 '</noscript><!--This is the head section-->\n<!-- <style> ... </style> -->\n<link\n    rel="stylesheet"\n    href="https://unpkg.com/blaze-slider@latest/dist/blaze.css"\n/><noscript>',
             }}
           ></noscript>
+          <script src="https://apis.google.com/js/api.js"></script>
         </Head>
         <body>
           <Main></Main>
@@ -53,12 +54,12 @@ class CustomDocument extends Document {
           <div
             dangerouslySetInnerHTML={{
               __html:
-                '<!-- Your body code here -->\n<!-- <script type="text/javascript"> ... </script> --> \n<script data-section-id=\'navbar\' src=\'https://unpkg.com/@teleporthq/teleport-custom-scripts\'></script>\n<script src="https://unpkg.com/blaze-slider@latest/dist/blaze-slider.min.js"></script>',
+                "<!-- Your body code here -->\n<!-- <script type=\"text/javascript\"> ... </script> --> \n<script data-section-id='navbar' src='https://unpkg.com/@teleporthq/teleport-custom-scripts'></script>\n<script src=\"https://unpkg.com/blaze-slider@latest/dist/blaze-slider.min.js\"></script>",
             }}
           ></div>
         </body>
       </Html>
-    )
+    );
   }
 }
-export default CustomDocument
+export default CustomDocument;
