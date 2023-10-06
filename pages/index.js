@@ -527,6 +527,14 @@ const Home = (props) => {
                   <span className="home-header14">Vibe</span>
                   <div className="home-list1">
                   <a
+                      href="https://snap.proofofvibes.com/"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link14"
+                    >
+                      Mint Snap
+                    </a>
+                  <a
                       href="https://proofofvibes.com/feedback"
                       target="_blank"
                       rel="noreferrer noopener"
