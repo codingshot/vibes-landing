@@ -88,7 +88,7 @@ const Home = (props) => {
                     rel="noreferrer noopener"
                     className="home-link"
                   >
-                    Vibe Paper
+                    VibePaper
                   </a>
                   <a
                     href="https://proofofvibes.com/tastemakers"
@@ -107,7 +107,7 @@ const Home = (props) => {
                     rel="noreferrer noopener"
                     className="home-login button"
                   >
-                    Find Events
+                    Snap
                   </a>
                   <a
                     href="https://proofofvibes.com/apply"
@@ -487,6 +487,22 @@ const Home = (props) => {
                       className="home-link11"
                     >
                       NEAR Social
+                    </a>
+                    <a
+                      href="https://proofofvibes.com/tiktok"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link12"
+                    >
+                      TikTok
+                    </a>
+                    <a
+                      href="https://proofofvibes.com/tiktok"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link12"
+                    >
+                      YouTube
                     </a>
                     <a
                       href="https://proofofvibes.com/linkedin"

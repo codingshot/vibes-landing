@@ -44,6 +44,8 @@ const RedirectLinks = {
                       "/apple-worldwide-playlist": "https://music.apple.com/us/playlist/worldwide-vibes/pl.u-mJy81vJTNaz1NxX",
                       "/screening": "https://us05web.zoom.us/j/83163983928?pwd=0WgeNL8nhf9SGzQLUw1ojf5BjtaDqM.1",
                       "/bday": "https://partiful.com/e/JRxzSwnJhtjJbhut877H",
+                      "/yotube": "https://www.youtube.com/@POV.1.",
+                      "/tiktok": "https://www.tiktok.com/@proofofvibes",
 
       
 };
