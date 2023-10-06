@@ -67,7 +67,7 @@ const Home = (props) => {
                   className="home-nav1"
                 >
                                     <a
-                    href="https://app.proofofvibes.com/"
+                    href="https://proofofvibes.com/near"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link03"
