@@ -90,14 +90,14 @@ const Home = (props) => {
                   >
                     VibePaper
                   </a>
-                  <a
+              { false &&   <a
                     href="https://proofofvibes.com/tastemakers"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link01"
                   >
                     Tastemakers
-                  </a>
+                  </a>}
 
                 </nav>
                 <div className="home-container2">
@@ -558,6 +558,7 @@ const Home = (props) => {
                     >
                       Partner w. Us
                     </a>
+                    {false && 
                     <a
                       href="https://proofofvibes.com/tastemakers"
                       target="_blank"
@@ -566,6 +567,7 @@ const Home = (props) => {
                     >
                       Tastemakers
                     </a>
+                    }
                     <a
                       href="https://proofofvibes.com/human"
                       target="_blank"
