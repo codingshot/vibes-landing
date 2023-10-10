@@ -46,6 +46,8 @@ const RedirectLinks = {
                       "/bday": "https://partiful.com/e/JRxzSwnJhtjJbhut877H",
                       "/yotube": "https://www.youtube.com/@POV.1.",
                       "/tiktok": "https://www.tiktok.com/@proofofvibes",
+                      "/nfc": "",
+                      "roadmap": "https://www.figma.com/file/aL1QKALh03aWlGmgcRp6MO/Proof-of-Vibes-Roadmap?type=whiteboard&node-id=0%3A1&t=S3EjwrWBX1OokNX0-1",
 
       
 };
