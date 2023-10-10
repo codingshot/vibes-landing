@@ -48,6 +48,7 @@ const RedirectLinks = {
                       "/tiktok": "https://www.tiktok.com/@proofofvibes",
                       "/nfc": "",
                       "roadmap": "https://www.figma.com/file/aL1QKALh03aWlGmgcRp6MO/Proof-of-Vibes-Roadmap?type=whiteboard&node-id=0%3A1&t=S3EjwrWBX1OokNX0-1",
+                      "/v5": "https://docs.google.com/document/d/1dOiQyROVfGLW3ecqb-zGn5eQlxsHeQzxGSxXtTJ07U4/edit?usp=sharing",
 
       
 };
