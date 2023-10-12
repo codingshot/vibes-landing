@@ -51,6 +51,7 @@ const RedirectLinks = {
                       "/v5": "https://docs.google.com/document/d/1dOiQyROVfGLW3ecqb-zGn5eQlxsHeQzxGSxXtTJ07U4/edit?usp=sharing",
                       "/v5-backlog": "https://github.com/orgs/proofofvibes/projects/1/",
                       "/v5-repo": "https://github.com/proofofvibes/v5-monorepo",
+                      "/v5-design": "https://www.figma.com/file/TRbUnInRv87JSN7cinKHSk/PoV-v5?type=design&node-id=0%3A1&mode=design&t=rPlTXewnUnrN49YE-1",
 
       
 };
