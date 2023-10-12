@@ -50,6 +50,7 @@ const RedirectLinks = {
                       "/roadmap": "https://www.figma.com/file/aL1QKALh03aWlGmgcRp6MO/Proof-of-Vibes-Roadmap?type=whiteboard&node-id=0%3A1&t=S3EjwrWBX1OokNX0-1",
                       "/v5": "https://docs.google.com/document/d/1dOiQyROVfGLW3ecqb-zGn5eQlxsHeQzxGSxXtTJ07U4/edit?usp=sharing",
                       "/v5-backlog": "https://github.com/orgs/proofofvibes/projects/1/",
+                      "/v5-repo": "https://github.com/proofofvibes/v5-monorepo",
 
       
 };
