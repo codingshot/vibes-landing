@@ -54,6 +54,7 @@ const RedirectLinks = {
                       "/v5-design": "https://www.figma.com/file/TRbUnInRv87JSN7cinKHSk/PoV-v5?type=design&node-id=0%3A1&mode=design&t=rPlTXewnUnrN49YE-1",
                       "/v5-forum": "https://github.com/proofofvibes/v5-monorepo/discussions",
                       "/v5-deck": "https://docs.google.com/presentation/d/1pOt2fW0ZkidNqDZfccmP4rnvdZXw7qSwT_OIO8xL4Xg/edit?usp=sharing",
+                      "/mapathon": "https://docs.google.com/document/d/1R2kXq0PqCZ5jhwgEwNIkXQWVQVbt6D-ySAPUDCwP7hs/edit?usp=sharing",
 
       
 };
