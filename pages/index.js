@@ -568,8 +568,18 @@ const Home = (props) => {
                       Tastemakers
                     </a>
                     }
+                                        {true && 
                     <a
-                      href="https://proofofvibes.com/human"
+                      href="https://proofofvibes.com/potlock"
+                      target="_blank"
+                      rel="noreferrer noopener"
+                      className="home-link15"
+                    >
+                      Donate
+                    </a>
+                    }
+                    <a
+                      href="https://nada.bot"
                       target="_blank"
                       rel="noreferrer noopener"
                       className="home-link16"
@@ -599,7 +609,7 @@ const Home = (props) => {
             </div>
             <div className="home-bottom">
               <span className="home-text29">
-                © 2023 Proof of Vibes - All rights reserved
+                © 2024 Proof of Vibes - All vibes reserved
               </span>
               {/* <button data-role="scroll-top" className="home-button3 button">
                 <img alt="image" src="/arrow.svg" className="home-image6" />
