@@ -23,15 +23,19 @@ const Home = (props) => {
 
         
         <section className="home-hero">
-          <video
+          {false &&           <video
             src="https://www.nearefi.org/vibesboat.mp4"
             loop
+            muted
             poster="/vibesboat.gif"
             preload="auto"
             autoPlay
             playsInline
             className="home-video"
           ></video>
+          }
+          <img src="/vibesboat.gif" alt="Vibes Boat" className="home-image" />
+
           <header data-thq="thq-navbar" className="home-navbar">
             <img
               alt="image"
