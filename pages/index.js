@@ -34,7 +34,7 @@ const Home = (props) => {
             className="home-video"
           ></video>
           }
-          <img src="/vibesboat.gif" alt="Vibes Boat" className="home-image" />
+          <img src="/vibesboat.gif" alt="Vibes Boat" className="home-video" />
 
           <header data-thq="thq-navbar" className="home-navbar">
             <img
